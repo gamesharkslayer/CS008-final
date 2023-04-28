@@ -1,0 +1,23 @@
+# ninja log v5
+4054	4116	1682008889678987433	CMakeFiles/typinggame.dir/points.cpp.o	1ff2691016a5d61
+1	1942	1681418077866891665	CMakeFiles/typinggame.dir/Application.cpp.o	16cad9a997b98018
+4	2717	1682531891320333389	CMakeFiles/typinggame.dir/main.cpp.o	59e6657349c9d23f
+4	1722	1682532029858313302	CMakeFiles/typinggame.dir/TypingGame.cpp.o	e53355f959c7637d
+1743	1789	1681418097948516021	CMakeFiles/typinggame.dir/Letter.cpp.o	4f59a493544dfd93
+3	1206	1681418155791929749	CMakeFiles/typinggame.dir/GUIComponent.cpp.o	f2198443c63a314
+3	145	1682357633416155928	CMakeFiles/typinggame.dir/timer.cpp.o	7453ae10168a95
+2	1265	1682444707632952885	CMakeFiles/typinggame.dir/TargetText.cpp.o	9fb5356b23cc0e7d
+1602	2165	1681418098324565183	CMakeFiles/typinggame.dir/list.cpp.o	23fa9121222aafff
+502	532	1682118359115980845	CMakeFiles/typinggame.dir/FIle.cpp.o	44ff5c0cd2f032b6
+1722	1903	1682532030038332241	typinggame	4e14e6d5ffb07e95
+4	1748	1681770185879004348	CMakeFiles/typinggame.dir/MultiText.cpp.o	be6105035343c722
+4	156	1682640346099707907	CMakeFiles/typinggame.dir/File.cpp.o	e8673fec8576272e
+12	2968	1682640348916906393	CMakeFiles/typinggame.dir/menu.cpp.o	17e0bf31036215fb
+4	3129	1682640349076974882	CMakeFiles/typinggame.dir/TypingGame.cpp.o	e53355f959c7637d
+3129	3436	1682640349385106991	typinggame	6d18be18317694d5
+3	1460	1682640392556606046	CMakeFiles/typinggame.dir/TypingGame.cpp.o	e53355f959c7637d
+1460	1661	1682640392756699365	typinggame	6d18be18317694d5
+3	1810	1682640403905922749	CMakeFiles/typinggame.dir/TypingGame.cpp.o	e53355f959c7637d
+1810	2021	1682640404114020624	typinggame	6d18be18317694d5
+3	2010	1682640417012107938	CMakeFiles/typinggame.dir/TypingGame.cpp.o	e53355f959c7637d
+2011	2214	1682640417216204566	typinggame	6d18be18317694d5
